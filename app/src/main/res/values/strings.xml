@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Target Deals</string>
+    <string name="network_status">Oops! Please check your connection</string>
+    <string name="app_close_title">Do you want to exist the app?</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="add_to_list">add to list</string>
+    <!--empty state-->
+    <string name="empty_screen">We do not have anything\nhere right now.</string>
+    <string name="please_retry">Please Retry</string>
+    <string name="retry">Retry</string>
+</resources>
